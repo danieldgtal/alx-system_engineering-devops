@@ -1,1 +1,1 @@
-Directory Readme for shell redirections
+This Directory cotains I/O file redirection script
