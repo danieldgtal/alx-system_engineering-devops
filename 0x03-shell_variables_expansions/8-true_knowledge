@@ -1,6 +1,0 @@
-#!/bin/bash
-<<<<<<< HEAD
-echo $(($TRUEKNOWLEDGE+128))
-=======
-echo $((TRUEKNOWLEDGE+128)) | cat -e
->>>>>>> bcb5b613636c3c616268530eb081a59b911800dc
